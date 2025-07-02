@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amitesh Yadav</h1>
 <h3 align="center">Full Stack Flutter Developer | MERN Stack || 🚀 Cross-Platform App Developer | Flutter & MERN Stack Enthusiast 👨‍💻 | Flutter Frontend | MERN Backend 🌐 Building Scalable Apps with Flutter & MERN Stack 🔧 Flutter Full Stack Developer | MongoDB, Express, React, Node.js Skilled 📱💻 Creating Seamless Web & Mobile Experiences | Flutter + MERN</h3>
 
-- 🌱 I’m currently learning **Next JS || gRPC || tRPC**
+- 🌱 I’m currently learning **Next JS || goLang || 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
